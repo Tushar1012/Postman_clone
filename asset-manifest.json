@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Postman_clone/static/css/main.434d85ca.css",
+    "main.js": "/Postman_clone/static/js/main.5dcd7ba8.js",
+    "index.html": "/Postman_clone/index.html",
+    "main.434d85ca.css.map": "/Postman_clone/static/css/main.434d85ca.css.map",
+    "main.5dcd7ba8.js.map": "/Postman_clone/static/js/main.5dcd7ba8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d85ca.css",
+    "static/js/main.5dcd7ba8.js"
+  ]
+}
